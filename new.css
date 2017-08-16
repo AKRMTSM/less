@@ -1,0 +1,17 @@
+.default-font {
+  color: #ff0000;
+  font-size: 20px;
+}
+.default-font a {
+  color: #ff0000;
+}
+.header {
+  color: #ff0000;
+  font-size: 20px;
+  background-color: #000000;
+}
+.header a {
+  color: #ff0000;
+}
+
+/*# sourceMappingURL=new.css.map */
